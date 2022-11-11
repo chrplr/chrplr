@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome to my github page, containing code and documents that may be of interest to others. 
+Welcome to my github page. You will find here code and documents that I have produced other the years. Among others: 
 
 * OpenLexicon: Easy access to lexical databases <https://chrplr.github.io/openlexicon> 
 * Programming for Cognitive and Brain Sciences <https://pcbs.rtfd.io>  
