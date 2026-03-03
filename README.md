@@ -19,22 +19,33 @@ Here are some ideas to get you started:
 My homepage is at <http://www.pallier.org>, here is simply a list of some of my repositories that may be of interest to others
 
 
+* Lexical tools
+    - [OpenLexicon](https://chrplr.github.io/openlexicon): access to lexical databases, including Lexique 
 
-* Expe3000-go: A program to present audio/visual stimuli with a fixed schedule <https://chrplr.github.io/expe3000-go>
-* Audiovis: a audio visual stimulus presentation python based on expyriment<https://chrplr.github.io/audiovis>
-* Shuffle-go: a program to randomize lists with optional sequential constraints <https://chrplr.github.io/shuffle-go>
-* dlp-io8.g: Code to send or read triggers using a ftdi chip <https://github.com/chrplr/dlp-io8-g>
-* bbtkv3: a program to capture events from stimulation programs using the Black Box ToolKit v3   <https://chrplr.github.io/bbtkv3>
-* bbtkv2: Python module to acquire timing data using the blackboxtoolkit v2   <https://bbtkv2.readthedocs.io/en/latest/intro.html>
+* Experiments generators
+   - [Expe3000-go](https://chrplr.github.io/expe3000-go): A program to present audio/visual stimuli with a fixed schedule  (in Go)
+   - [Expe3000-c](https://chrplr.github.io/expe3000): A program to present audio/visual stimuli with a fixed schedule (in C)
+   - [Audiovis](https://chrplr.github.io/audiovis): a audio visual stimulus presentation program based on expyriment (in Python)
 
 
-* OpenLexicon: Easy access to lexical databases <https://chrplr.github.io/openlexicon> 
-* Programming for Cognitive and Brain Sciences <https://pcbs.rtfd.io>  
-* Programming Psychology Experiments (subset of the previous) <https://github.com/chrplr/programming-psychology-experiments>
+* Tools to help prepare stimuli lists
+   - [Shuffle-go](https://chrplr.github.io/shuffle-go): a program to randomize lists with optional sequential constraints 
+   - [Match-go](https://github.com/chrplr/match-go): an implementation of van Casteren & Davis Mix & Match programs
+
+
+* Triggers/timing checks
+  - [dlp-io8.g](https://github.com/chrplr/dlp-io8-g): Code to send or read triggers using a ftdi chip 
+  - [bbtkv3](https://chrplr.github.io/bbtkv3): a program to capture events from stimulation programs using the Black Box ToolKit v3 
+  - [bbtkv2](https://bbtkv2.readthedocs.io/en/latest/intro.html): Python module to acquire timing data using the blackboxtoolkit v2   
+
+
+* Methodological lectures
+   - [PCBS](https://pcbs.rtfd.io)  Programming for Cognitive and Brain Sciences    
+   - (https://github.com/chrplr/programming-psychology-experiments) Programming Psychology Experiments (subset of the previous) 
+   -  [Stats with R](https://github.com/chrplr/statistics_with_R) Examples of basic statistical analyses with R
+
 * Linux tips <https://chrplr-linux-tips.readthedocs.io/en/latest/>
-* Examples of basic statistical analyses with R<https://github.com/chrplr/statistics_with_R>
-* Statutils: command-line tools to perform simple statistical data manipulations and analyses from data stored in text files <https://chrplr.github.io/statsutils>
-* install_spm12: script to install spm12's standalone version<https://github.com/chrplr/install_spm12>
+
 
 
 
