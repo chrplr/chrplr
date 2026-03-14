@@ -23,6 +23,7 @@ My homepage is at <http://www.pallier.org>, here is simply a list of some of my 
     - [OpenLexicon](https://chrplr.github.io/openlexicon): access to lexical databases, including Lexique 
 
 * Experiments generators
+   - 🔭 [goxpyriment](https://github.com/chrplr/goxpyriment): A general framework to build psychology experiments
    - [Expe3000-go](https://chrplr.github.io/expe3000-go): A program to present audio/visual stimuli with a fixed schedule  (in Go)
    - [Expe3000-c](https://chrplr.github.io/expe3000): A program to present audio/visual stimuli with a fixed schedule (in C)
    - [Audiovis](https://chrplr.github.io/audiovis): a audio visual stimulus presentation program based on expyriment (in Python)
