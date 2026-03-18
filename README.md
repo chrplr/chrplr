@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **chrplr/chrplr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 My homepage is at <http://www.pallier.org>, here is simply a list of some of my repositories that may be of interest to others
 
-
 * Lexical tools
     - [OpenLexicon](https://chrplr.github.io/openlexicon): access to lexical databases, including Lexique 
 
 * Experiments generators
    - 🔭 [goxpyriment](https://github.com/chrplr/goxpyriment): A general framework to build psychology experiments
-   - [Expe3000-go](https://chrplr.github.io/expe3000-go): A program to present audio/visual stimuli with a fixed schedule  (in Go)
-   - [Expe3000-c](https://chrplr.github.io/expe3000): A program to present audio/visual stimuli with a fixed schedule (in C)
-   - [Audiovis](https://chrplr.github.io/audiovis): a audio visual stimulus presentation program based on expyriment (in Python)
+   - 🔭 [Gostim2](https://chrplr.github.io/gostim2): A program to present audio/visual stimuli with a fixed schedule  (in Go)
+   - Older:
+        * [Audiovis](https://chrplr.github.io/audiovis): a audio visual stimulus presentation program based on expyriment (in Python)i ones:
+        * [Expe3000-c](https://chrplr.github.io/expe3000): A program to present audio/visual stimuli with a fixed schedule (in C)
 
 
 * Tools to help prepare stimuli lists
