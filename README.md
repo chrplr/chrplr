@@ -1,6 +1,8 @@
-# Christophe Pallier
+# Christophe Pallier Programming projects
 
-Cognitive neuroscientist at [Unicog](http://www.unicog.org). My homepage is at [pallier.org](http://www.pallier.org).
+I am a cognitive neuroscientist at [Unicog](http://www.unicog.org). My actual homepage is at [pallier.org](http://www.pallier.org).
+
+Here is a list of various tools or ressources I have developped other the years.
 
 ---
 
