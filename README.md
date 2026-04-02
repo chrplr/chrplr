@@ -2,9 +2,15 @@
 
 I am a cognitive neuroscientist at [Unicog](http://www.unicog.org). My actual homepage is at [pallier.org](http://www.pallier.org).
 
-Here is a list of various tools or ressources I have developped other the years.
+Here is a list of various tools or ressources useful for experiments.
 
 ---
+
+## Lexical Databases
+
+| Repository | Description | Language |
+| [OpenLexicon](https://chrplr.github.io/openlexicon) | Platform providing access to lexical databases for psycholinguistic research, including Lexique | Python / R / JS |
+
 
 ## Experiment Frameworks & Stimulus Delivery
 
@@ -14,33 +20,21 @@ Tools for building and running psychology/neuroscience experiments with precise 
 |---|---|---|
 | [goxpyriment](https://github.com/chrplr/goxpyriment) | General-purpose framework for building behavioral experiments — stimuli, trials, blocks, logging | Go |
 | [gostim2](https://chrplr.github.io/gostim2) | Fixed-schedule multimedia stimulus delivery (image, audio, text, video) with millisecond timing and VSYNC sync | Go |
-| [Pinel-localizer-go](https://github.com/chrplr/Pinel-localizer-go) | fMRI functional localizer (Pinel et al. 2007) identifying brain regions for perception, motor, reading, language, arithmetic | Go |
-| [retinotopy-go](https://github.com/chrplr/retinotopy-go) | HCP retinotopic mapping — flickering checkerboard/wedge stimuli for visual cortex fMRI | Go |
-| [Posner_attention_networks_task](https://github.com/chrplr/Posner_attention_networks_task) | Attention Network Test (ANT-R) measuring alerting, orienting, and executive control | Python |
-| [Pinel_localizer](https://github.com/chrplr/Pinel_localizer) | Python/expyriment version of the Pinel functional localizer | Python |
 | [Audiovis](https://chrplr.github.io/audiovis) | Audio-visual stimulus presentation based on expyriment | Python |
-| [Expe3000](https://chrplr.github.io/expe3000) | Fixed-schedule audio/visual stimulus delivery | C |
 
 ---
 
 ## Stimulus List Preparation
 
-Tools for generating and randomizing experimental stimulus lists.
+Tools for generating stimuli and randomizing experimental lists.
 
 | Repository | Description | Language |
 |---|---|---|
 | [shuffle-go](https://chrplr.github.io/shuffle-go) | Randomize lists with sequential constraints (max repetitions, minimum gap) | Go |
-| [dot-array-generator-go](https://github.com/chrplr/dot-array-generator-go) | Generate non-symbolic number stimuli (dot arrays) with configurable spatial constraints | Go |
 | [match-go](https://github.com/chrplr/match-go) | Implementation of van Casteren & Davis Mix & Match — match items across conditions on selected variables | Go |
-
----
-
-## Lexical & Linguistic Tools
-
-| Repository | Description | Language |
-|---|---|---|
-| [OpenLexicon](https://chrplr.github.io/openlexicon) | Platform providing access to lexical databases for psycholinguistic research, including Lexique | Python / R / JS |
+| [dot-array-generator-go](https://github.com/chrplr/dot-array-generator-go) | Generate non-symbolic number stimuli (dot arrays) with configurable spatial constraints (prot Lauren Aulet's code) | Go |
 | [unipseudo-go](https://github.com/chrplr/unipseudo-go) | Pseudoword generator using trigram Markov chains from real word dictionaries (port of UniPseudo) | Go |
+| [images2gv](https://github.com/chrplr/images2gv) | Convert image sequences into GPU-accelerated video (.gv) with LZ4 compression and efficient frame seeking | Go |
 | [llm_pseudoword_generator](https://github.com/chrplr/llm_pseudoword_generator) | Neural pseudoword generator trained with a character-level language model | Python |
 | [jabberwocky](https://github.com/chrplr/jabberwocky) | Generates syntactically correct French nonsense text by replacing content words with pseudowords | Python |
 
@@ -72,19 +66,22 @@ Multi-modal neuroimaging study in which participants listened to *The Little Pri
 
 ### Brain Lateralization & Language Models
 
+Code for:
+
+* Bonnasse-Gahot, L., & Pallier, C. (2024).
+fMRI predictors based on language models of increasing complexity recover brain left lateralization.
+Advances in Neural Information Processing Systems, 37, 125231-125263.
+* Bonnasse-Gahot, L., & Pallier, C. (2024).
+fMRI predictors based on language models of increasing complexity recover brain left lateralization.
+Advances in Neural Information Processing Systems, 37, 125231-125263.
+
+These codes were written by Laurent Bonnasse-Gahot:
+
+
 | Repository | Description |
 |---|---|
-| [llms_brain_lateralization](https://github.com/chrplr/llms_brain_lateralization) | **NeurIPS 2024** — fMRI predictors from language models of increasing complexity recover left lateralization for language |
-| [llm_training_brain_asym](https://github.com/chrplr/llm_training_brain_asym) | **arXiv:2602.12811** — Left-right brain asymmetry in LLM-based fMRI prediction across OLMo-2 training stages |
-| [td_llms_brain_lateralization](https://github.com/chrplr/td_llms_brain_lateralization) | Research code correlating LLMs (GPT-2, Qwen, Pythia) with fMRI brain activity patterns |
-
----
-
-## fMRI / MRI Analysis Tools
-
-| Repository | Description | Language |
-|---|---|---|
-| [mri-tools](https://github.com/chrplr/mri-tools) | Command-line utilities for processing fMRI data: image transformation, signal extraction, visualization | Python |
+| [llms_brain_lateralization](https://github.com/l-bg/llms_brain_lateralization) | **NeurIPS 2024** — fMRI predictors from language models of increasing complexity recover left lateralization for language |
+| [llm_training_brain_asym](https://github.com/l-bg/llm_training_brain_asym) | **arXiv:2602.12811** — Left-right brain asymmetry in LLM-based fMRI prediction across OLMo-2 training stages |
 
 ---
 
@@ -103,5 +100,4 @@ Multi-modal neuroimaging study in which participants listened to *The Little Pri
 | Repository | Description |
 |---|---|
 | [linux-tips](https://chrplr-linux-tips.readthedocs.io/en/latest/) | Linux command-line tips and howtos |
-| [images2gv](https://github.com/chrplr/images2gv) | Convert image sequences into GPU-accelerated video (.gv) with LZ4 compression and efficient frame seeking | Go |
 
