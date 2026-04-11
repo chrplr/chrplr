@@ -5,8 +5,6 @@ I am a cognitive neuroscientist at [Unicog](http://www.unicog.org). My actual ho
 This is my github repository, featuring many of programming or documentation projects. I hightlight some of them below: 
 
 
----
-
 * **Lexical Databases & Pseudoword generator**
   * **[OpenLexicon](https://chrplr.github.io/openlexicon)**: Platform providing access to lexical databases for psycholinguistic research, including Lexique
   * **[unipseudo-go](https://github.com/chrplr/unipseudo-go)**: Pseudoword generator using trigram Markov chains from real word dictionaries (port of UniPseudo)
@@ -63,6 +61,8 @@ This is my github repository, featuring many of programming or documentation pro
 
 * **Miscellaneous**
   * **[linux-tips](https://chrplr-linux-tips.readthedocs.io/en/latest/)**: Linux command-line tips and howtos
+
+---
 
 * [All my repositories](https://github.com/chrplr?tab=repositories).
 
