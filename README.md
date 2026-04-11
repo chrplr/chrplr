@@ -2,7 +2,8 @@
 
 I am a cognitive neuroscientist at [Unicog](http://www.unicog.org). My actual homepage is at [pallier.org](http://www.pallier.org).
 
-Here are various tools or ressources useful for experiments (or see [all my repositories](https://github.com/chrplr?tab=repositories)).
+This is my github repository, featuring many of programming or documentation projects. I hightlight some of them below: 
+
 
 ---
 
@@ -62,3 +63,6 @@ Here are various tools or ressources useful for experiments (or see [all my repo
 
 * **Miscellaneous**
   * **[linux-tips](https://chrplr-linux-tips.readthedocs.io/en/latest/)**: Linux command-line tips and howtos
+
+* [All my repositories](https://github.com/chrplr?tab=repositories).
+
