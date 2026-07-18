@@ -13,7 +13,7 @@ This is my github repository, featuring many of programming or documentation pro
   
   Tools for building and running psychology/neuroscience experiments with precise timing.
 
-  * **[goxpyriment](https://github.com/chrplr/goxpyriment)**: General-purpose framework for building behavioral experiments — stimuli, trials, blocks, logging
+  * **[goxpyriment](https://chrplr.github.io/goxpyriment)**: General-purpose framework for building behavioral experiments — stimuli, trials, blocks, logging
   * **[gostim2](https://chrplr.github.io/gostim2)**: Fixed-schedule multimedia stimulus delivery (image, audio, text, video) with millisecond timing and VSYNC sync
   * **[Audiovis](https://chrplr.github.io/audiovis)**: Audio-visual stimulus presentation based on expyriment
 
